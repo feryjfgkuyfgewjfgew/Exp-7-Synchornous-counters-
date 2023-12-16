@@ -57,29 +57,42 @@ Developed by: NARESH.R
 RegisterNumber: 23005559 
 */
 
+### up counter
 
-![Alt text](<Screenshot 2023-12-15 142915.png>)
+![Screenshot 2023-12-15 142915](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/14eca6ed-3206-4562-a994-6b08c06f65b5)
 
+### down counter
 
-![Alt text](<Screenshot 2023-12-15 142932.png>)
+![Screenshot 2023-12-15 142932](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/0e80a299-1cfc-4cf1-b0d1-baf0a7a7a38e)
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+### up counter
 
+![Screenshot 2023-12-15 142942](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/be149ec5-142c-402f-959e-3ad005d01a9b)
 
+### down counter
 
+![Screenshot 2023-12-15 142953](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/699d90c5-1998-43c4-b471-14eeda9de193)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+### up counter
+
+![Screenshot 2023-12-15 143006](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/ca2ee3b8-35f7-46cc-99a3-8622f79156fa)
+
+### down counter
+
+![Screenshot 2023-12-15 143017](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/69509a8a-65be-4bf9-813e-8d9bbb931fbf)
 
 ### TRUTH TABLE 
 
+### up counter
 
+![Screenshot 2023-12-15 143030](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/9f525a02-056d-4b9f-b5cd-a72e755e0ae6)
+
+### down counter
+
+![Screenshot 2023-12-15 143043](https://github.com/feryjfgkuyfgewjfgew/Exp-7-Synchornous-counters-/assets/150319377/d21198fd-14d0-4550-aaf3-100e77998b31)
 
 ### RESULTS 
-![Alt text](<Screenshot 2023-12-15 142953.png>)
-![](<Screenshot 2023-12-15 142942.png>)
-![](<Screenshot 2023-12-15 143006.png>)
-![](<Screenshot 2023-12-15 143017.png>)
-![Alt text](<Screenshot 2023-12-15 143030.png>)
-![Alt text](<Screenshot 2023-12-15 143043.png>)
