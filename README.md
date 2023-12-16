@@ -56,41 +56,24 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: NARESH.R
 RegisterNumber: 23005559 
 */
-#### UP COUNTER
+
 
 ![Alt text](<Screenshot 2023-12-15 142915.png>)
 
-#### DOWN COUNTER
 
 ![Alt text](<Screenshot 2023-12-15 142932.png>)
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-#### UP COUNTER
-
-
-
-
-#### DOWN COUNTER
 
 
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
-#### UP COUNTER
-
-
-#### DOWN COUNTER
-
 
 ### TRUTH TABLE 
 
-#### UP COUNTER
-
-
-
-#### DOWN COUNTER
 
 
 ### RESULTS 
